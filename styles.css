@@ -86,4 +86,7 @@ h1 {
     max-width: 100%; /* Prevent overflow */
     display: block;
 }
-
+.project-image {
+    width: 400px; /* Set the width */
+    height: auto; /* Keep the aspect ratio */
+}
