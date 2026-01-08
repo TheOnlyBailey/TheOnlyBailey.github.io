@@ -26,6 +26,16 @@ nav a:hover {
     text-decoration: underline;
 }
 
+a {
+	color: white;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: white;
+	text-decoration: underline;
+}
+
 /* Main Content */
 main {
     padding: 20px;
